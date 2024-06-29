@@ -17,7 +17,7 @@ This project is the backend service for a URL shortener application. It is built
 - **Backend:** C#, .NET ASP.NET Core
 - **Database:** SQL Server
 - **Authentication:** JWT (JSON Web Tokens)
-- **Email Service:** (e.g., SendGrid, Mailgun)
+- **Email Service:** MailKit
 
 ## Getting Started
 
